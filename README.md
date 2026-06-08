@@ -40,15 +40,14 @@ End-to-end analytics across 100K+ orders — cohort retention CTEs, RFM segmenta
 
 AI-powered demand forecasting, anomaly detection, and automated PDF report generation. Deployed on Streamlit Cloud.
 
- [View on streamlit cloud](supply-chain-intelligence-platform-vxtmzjfkdahzqpdqufmzph
-.streamlit.app)
+ [View on streamlit cloud](https://supply-chain-intelligence-platform-vxtmzjfkdahzqpdqufmzph.streamlit.app)
 
 
  🔷 AI Churn Predictor Platform
  > XGBoost · SHAP · OpenRouter · Streamlit
 
 A-powered Churn Prediction, automated PDF report generation, Deployed on Streamlit Cloud.
- [View on streamlit cloud]](ai-churn-predictor-rj7ve27gcouuduchxyidqf
+ [View on streamlit cloud](https://ai-churn-predictor-rj7ve27gcouuduchxyidqf
 .streamlit.app)
 
 
