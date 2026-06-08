@@ -7,20 +7,20 @@ I build end-to-end analytics solutions and AI-powered analytics applications. IB
 
  Tech Stack
 
-| Category / Tools |
-| Analytics |
+ Category / Tools 
+ Analytics -
 |Excel, Power BI |
 
-| Languages |
+ Languages -
 |Python, SQL |
 
-| Libraries |
+ Libraries -
 |pandas, scikit-learn, matplotlib, seaborn |
 
-| Databases |
+ Databases -
 |SQLite, MySQL |
 
-| Deployment |
+ Deployment -
 |Streamlit Cloud, GitHub |
 
 
