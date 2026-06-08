@@ -1,6 +1,6 @@
  Hi, I'm S THYAGARAJ 
 
-Aspiring Data Analyst | Bengaluru, India
+Data Analyst | Bengaluru, India
 
 I build end-to-end analytics solutions and AI-powered analytics applications. IBM Certified Data Analyst with 6 portfolio projects spanning Excel, SQL, Python, Power BI, and Streamlit.
 
